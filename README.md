@@ -6,7 +6,7 @@
 Verplaats het rode blok één plek naar links.
 2. Oefening 2 V
 Stappel alle blokken op aan de rechterkant.
-3. Oefening 3
+3. Oefening 3 V
 Verplaats de hele stapel blokken één plek naar rechts.
 4. Oefening 4 V
 één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft.
