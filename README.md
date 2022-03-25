@@ -1,7 +1,7 @@
 # silvas
 # Hierin vind je de volgende projecten:
 
-# Opdrachten Javascript:
+#Javascript robotarm:
 1. Oefening 1 V
 Verplaats het rode blok één plek naar links.
 2. Oefening 2 V
