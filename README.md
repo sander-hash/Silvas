@@ -36,8 +36,7 @@ Verplaats alle blokken over de lege plaatsen, zodra er geen blokken meer zijn mo
 Zorg dat alle blokken versprijd zijn(dus elke keer een lege column tussen elk blok)
 Max 20 regels code!
 
-# Stageportaal Silvas
-# Features website
+# Stageportaal Silvas features
 1. Invoegen van nieuwe stagiairs.
 2. Verwijderen van stagiairs.
 3. Aanmaken van evaluaties van stagiairs.
