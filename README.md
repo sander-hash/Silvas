@@ -1,7 +1,4 @@
-# silvas
-# Hierin vind je de volgende projecten:
-Javascript project robotArm.
-Stageportaal project.
+# Silvas (stage)
 
 #Javascript robotarm:
 1. Oefening 1 V
@@ -39,7 +36,7 @@ Verplaats alle blokken over de lege plaatsen, zodra er geen blokken meer zijn mo
 Zorg dat alle blokken versprijd zijn(dus elke keer een lege column tussen elk blok)
 Max 20 regels code!
 
-
+# Stageportaal Silvas
 # Features website
 1. Invoegen van nieuwe stagiairs.
 2. Verwijderen van stagiairs.
