@@ -1,5 +1,7 @@
 # silvas
 # Hierin vind je de volgende projecten:
+Javascript project robotArm.
+Stageportaal project.
 
 #Javascript robotarm:
 1. Oefening 1 V
