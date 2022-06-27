@@ -39,13 +39,16 @@ Max 20 regels code!
 
 
 # Features website
-1. Invoegen van nieuwe users
-2. Verwijderen van users
-3. Aanmaken van evaluaties op id van de desbetreffende user
-4. Evaluaties ophalen van de desbetreffende user
-5. Evaluaties tonen in een model aan de hand van op welke record is geklikt
-6. Navbar die dingen toont voor ingelogde users
-7. Aanmaken van users is alleen mogelijk met de groep: stagebegeleider
-8. Verwijderen van users is alleen mogelijk met de groep: stagebegeleider
-9. Er wordt een user tabel getoond die alleen de stagebegeleider ziet
-10. Er wordt een evaluatie tabel getoond alleen wanneer ingelogt als Stagiair
+1. Invoegen van nieuwe stagiairs.
+2. Verwijderen van stagiairs.
+3. Aanmaken van evaluaties van stagiairs.
+4. Evaluaties ophalen aan de hand van de desbetreffende stagiair.
+5. Meer info over de evaluatie tonen in een model.
+6. Navbar toont bepaalde links aan de hand van wie is ingelogd.
+7. Aanmaken van users is alleen mogelijk met de groep: stagebegeleider.
+8. Verwijderen van users is alleen mogelijk met de groep: stagebegeleider.
+9. Een stagebegeleider kan een evaluatie verwijderen.
+10. Een stagebegeleider kan een opmerking geven een de evaluatie.
+12. Er wordt een user tabel getoond die alleen de stagebegeleider ziet.
+13. Er wordt een evaluatie tabel getoond alleen wanneer ingelogt als Stagiair.
+14. Een stagiair kan zijn info aanpassen en een profielfoto veranderen of uploaden.
